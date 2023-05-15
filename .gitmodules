@@ -1,0 +1,3 @@
+[submodule "projeto/app_tarefa07_backend"]
+	path = projeto/app_tarefa07_backend
+	url = https://github.com/JoaoLuisBeato/app_tarefa07_backend.git
